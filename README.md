@@ -1,2 +1,2 @@
-# Essentials-of-Data-Science
+# Data-Science-Essentials
 Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn
